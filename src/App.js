@@ -15,7 +15,7 @@ function App() {
   const Addtocart=(Product)=>
   { 
     
-    alert("cart call"+Product) 
+   // alert("cart call"+Product) 
     
     
     const match = addcart.find((val,indx)=> val.id===Product.id)

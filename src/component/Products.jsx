@@ -121,7 +121,7 @@ const endfun=()=>
         setStart(start + 5); // Move to the next batch
         setEnd(end + 5); 
             }else{
-                alert("Item Lenght is full"+searchingValue.length) 
+                // alert("Item Lenght is full"+searchingValue.length) 
             }
             console.log(start)
             console.log(end)
